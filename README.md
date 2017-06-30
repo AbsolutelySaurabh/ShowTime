@@ -1,2 +1,3 @@
 # ShowTime
-Movies and Shows
+
+Get info about the latest Movies and Shows.
